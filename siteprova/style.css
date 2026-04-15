@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    height: 1000px;
+    font-family: Arial;
+    background-color: rgb(171, 189, 240);
+    color: black;
+    cursor: url(https://www.rw-designer.com/cursor-view/7400.png), auto;
+  }
+  
+  .topo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  
+  header {
+    background-color: rgb(79, 8, 138);
+    color: white;
+    padding: 10px;
+    margin-bottom: 30px;
+    cursor: url(https://www.rw-designer.com/cursor-view/7400.png), auto;
+  }
+  
+  header img {
+    max-width: 110px;
+  }
+  
+  p {
+    color: rgb(18, 4, 36);
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial Black;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .container {
+    background: #301c55;
+    padding: 30px;
+    border-radius: 10px;
+    width: 60%;
+    max-width: 600px;
+    margin: 20px auto; 
+    color: white;
+  }
+  
+  input {
+    width: 65%;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    background: #0c8118;
+    color: white;
+  }
+
+
+  
+  li {
+    margin-top: 10px;
+  }
+  
